@@ -1,0 +1,33 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# Rider
+.idea/
+*.sln.iml
+*.user
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# NuGet packages
+.nuget/
+[Nn]u[Gg]et/
+packages/
+
+# Logs and diagnostic files
+[Ll]og/
+[Ll]ogs/
+
+# OS generated files
+[Tt]humbs.db
